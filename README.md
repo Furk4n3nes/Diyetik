@@ -41,4 +41,4 @@ Arka Plan & Veritabanı (Back-end & DB): İki platformun da eşzamanlı veri oku
 
 Yapay Zeka Entegrasyonu: Görsel analiz ve bağlamsal veri işleme işlemleri için Google Gemini API.
 
-Bu proje, modern web tasarımı ve fonksiyonel mobil programlama disiplinlerinin entegre bir şekilde kullanıldığı bir mühendislik çalışmasıdır.
+
